@@ -1,7 +1,7 @@
 #Task1
 #TechnoHack Edutech
 #Calculator 
-#Made by Simal Agrahari
+#Made by Aryan Keshari
 
 
 from tkinter import Tk, Entry, Button, StringVar
